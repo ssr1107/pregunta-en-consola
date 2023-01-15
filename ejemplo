@@ -1,0 +1,11 @@
+#para este ejemplo preguntaremos el nombre de usuario y una vez lo introduces
+#le das enter te da la bienvenida con el nombre introducido
+
+pregunta = input("Introduzca Nombre de Usuario")
+
+print("Bienvenido " + pregunta)
+
+#el resultado de ejecutar este seria
+#Introduzca Nombre de Usuario
+#paco
+#Bienvenido paco
